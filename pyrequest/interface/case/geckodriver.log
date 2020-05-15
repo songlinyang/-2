@@ -1,0 +1,285 @@
+1571042404374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EQfg3FC28aDz"
+*** You are running in headless mode.
+1571042405811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571042405811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571042405811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571042407241	Marionette	INFO	Listening on port 61067
+1571042407690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571042419741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.RJIxSstuKWX6"
+1571042420700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571042420700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571042420700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571042422636	Marionette	INFO	Listening on port 61169
+1571042422665	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann[Child 26192, el_wiCn.cc, line 332
+hrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26192, Chrome_ChildThrea[Parent 23612, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+[Child 26124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 26124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil1571042441286	Marionette	INFO	Stopped listening on port 61169
+1571104581680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6UofXqrnt6oj"
+*** You are running in headless mode.
+1571104582648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571104582648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571104582648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571104584274	Marionette	INFO	Listening on port 51981
+1571104584615	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x35002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+1571104602094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TqsR9lfVg0IY"
+1571104603052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571104603052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571104603053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571104604567	Marionette	INFO	Listening on port 52061
+1571104604984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571104647865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kw2VF0GRhtRy"
+1571104648802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571104648803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571104648803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571104650392	Marionette	INFO	Listening on port 52146
+1571104650677	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commJavaScript error: resource:///modules/WindowsJumpLists.jsm, line 237: TypeError: this._builder is undefined
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6544, 1571105010471	Marionette	INFO	Stopped listening on port 52146
+mon/ipc_channel_win.cc, line 332
+[Child 8816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6972, Chrome[Parent 3596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1571105009344	Marionette	INFO	Stopped listening on port 52272
+rror: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1571105006066	Marionette	INFO	Stopped listening on port 52379
+itor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 8328, Chrome_ChildThread][Child 1868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+ WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10692, Chro1571105007779	Marionette	INFO	Stopped listening on port 52480
+1571707848587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.h0BJs5M3frgl"
+*** You are running in headless mode.
+1571707849905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571707849905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571707849905	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571707877686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.N0rbdbL23EeE"
+1571707878515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571707878515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571707878515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571707880085	Marionette	INFO	Listening on port 49982
+1571707880542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332[Ch
+ild 5948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5948, Chrome_ChildThread] [Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 651571710219285	Marionette	INFO	Stopped listening on port 49982
+vedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-output-wrapper.js:475:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-frame.js:346:5
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+selectTool/<@resource://devtools/client/framework/toolbox.js:1991:7
+
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+Handler function JSPropertyProvider threw an exception: TypeError: properties.shift(...).trim is not a function
+Stack: JSPropertyProvider@resource://devtools/shared/webconsole/js-property-provider.js:411:40
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+autocomplete@resource://devtools/server/actors/webconsole.js:1186:22
+onPacket@resource://devtools/server/main.js:1286:15
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:5
+Line: 411, column: 40
+[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Child 7472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.icc, line 332
+[Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1571710217672	Marionette	INFO	Stopped listening on port 50451
+n permission: about:reader*
+1571708486903	Marionette	INFO	Listening on port 51110
+1571708487332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571708513877	Marionette	INFO	Stopped listening on port 51110
+[Child 10964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10964, Chrome_ChildThread] WARNING: [Parent 10112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 10112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11228, [Parent 10112, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166

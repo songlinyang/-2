@@ -1,0 +1,7 @@
+{
+  "借款子系统发标":{
+    "debitUrl":"http://192.168.1.195:19066/debit/signin",
+    "username":"13828000058",
+    "password":"pj123456"
+  }
+}
